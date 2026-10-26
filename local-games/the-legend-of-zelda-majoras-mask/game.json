@@ -1,0 +1,47 @@
+{
+  "slug": "the-legend-of-zelda-majoras-mask",
+  "title": "The Legend of Zelda: Majora's Mask",
+  "type": "Emulation",
+  "developer": "Nintendo",
+  "description": "After becoming the hero of Hyrule, Link stumbles into the enchanted land of Termina, where a falling moon will crush the world in three days.",
+  "tags": [
+    "3D",
+    "Action-Adventure",
+    "Dark",
+    "Fantasy",
+    "Puzzle",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "8a8c0276-1274-4424-8807-2747c66e4d42",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/emulation/8a8c0276-1274-4424-8807-2747c66e4d42/1/8a8c0276-1274-4424-8807-2747c66e4d42.z64",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 33554432,
+  "files": [
+    "rom.z64",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local EmulatorJS runtime.",
+  "mirroredAt": "2026-10-26T11:50:22.025Z",
+  "verifiedAt": "2026-10-26T11:51:43.326Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Legend of Zelda: Majora's Mask",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  },
+  "assetCount": 0
+}

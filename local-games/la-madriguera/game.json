@@ -1,0 +1,88 @@
+{
+  "slug": "la-madriguera",
+  "title": "La Madriguera",
+  "type": "HTML",
+  "developer": "Camilo HernÃ¡ndez",
+  "description": "A short 3D physics puzzle game about a lazy bear who refuses to get out of his armchair. You cannot move him, so you move the world instead: drag furniture, tip tables and roll vats of honey across the living room until a slice of cake finally reaches his lap. One room, one bear, and a long list of ways to get it wrong.",
+  "tags": [
+    "Puzzle",
+    "Physics",
+    "3D",
+    "Casual",
+    "Point & Click"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "1e8ff64a-73fb-4f17-8d4f-79876c83771e",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/index.html",
+  "status": "done",
+  "sizeBytes": 101692141,
+  "assetCount": 28,
+  "known404": [
+    "https://playobsidian.com/LaMadriguera.loader.js",
+    "https://playobsidian.com/LaMadriguera.framework.js",
+    "https://playobsidian.com/LaMadriguera.wasm",
+    "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/Build/LaMadriguera.data",
+    "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/LaMadriguera.data",
+    "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/Build/build.wasm",
+    "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/Build/build.temp.asm.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/LaMadriguera.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/LaMadriguera.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/LaMadriguera.framework.js",
+      "error": "HTTP 404 for https://playobsidian.com/LaMadriguera.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/LaMadriguera.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/LaMadriguera.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/Build/LaMadriguera.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/Build/LaMadriguera.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/LaMadriguera.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/LaMadriguera.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/Build/build.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/Build/build.temp.asm.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/1e8ff64a-73fb-4f17-8d4f-79876c83771e/1/Build/build.temp.asm.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:41:18.870Z",
+  "verifiedAt": "2026-10-26T11:41:31.942Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Unity WebGL Player | La Madriguera",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

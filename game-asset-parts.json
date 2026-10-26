@@ -177,5 +177,18 @@
         "size": 14816944
       }
     ]
+  },
+  "local-games/portal/chunks/background1.data.part1": {
+    "size": 104752742,
+    "parts": [
+      {
+        "path": "local-games/portal/chunks/background1.data.part1.part001",
+        "size": 90000000
+      },
+      {
+        "path": "local-games/portal/chunks/background1.data.part1.part002",
+        "size": 14752742
+      }
+    ]
   }
 }

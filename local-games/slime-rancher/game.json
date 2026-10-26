@@ -1,0 +1,51 @@
+{
+  "slug": "slime-rancher",
+  "title": "Slime Rancher",
+  "type": "HTML",
+  "developer": "Monomi Park",
+  "description": "Slime Rancher is the tale of Beatrix LeBeau, a plucky, young rancher who sets out for a life a thousand light years away from Earth on the 'Far, Far Range' where she tries her hand at making a living wrangling slimes.",
+  "tags": [
+    "3D",
+    "Cute",
+    "Exploration",
+    "First-Person",
+    "Sandbox",
+    "Simulation"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "c32a4c58-0324-409c-b8ce-72062394cc1c",
+  "sourceVersion": "4.2",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/c32a4c58-0324-409c-b8ce-72062394cc1c/4.2/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/c32a4c58-0324-409c-b8ce-72062394cc1c/4.2/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/c32a4c58-0324-409c-b8ce-72062394cc1c/4.2/index.html",
+  "status": "done",
+  "sizeBytes": 171055083,
+  "assetCount": 2,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/c32a4c58-0324-409c-b8ce-72062394cc1c/4.2/index.html",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\slime-rancher\\index.html.tmp' -> 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\slime-rancher\\index.html'",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:37:36.876Z",
+  "verifiedAt": "2026-10-26T10:38:43.283Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Slime Rancher | OFFLINE BUILD",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 4096
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "the-worlda-s-hardest-game",
+  "title": "The Worldâs Hardest Game",
+  "type": "Flash",
+  "developer": "Stephen Critoph",
+  "description": "The Worldâs Hardest Game speaks for itself, when we say it is the hardest game we arenât kidding! If you have played Worldâs Hardest Game before, you know how difficult the game can be. You will need to be quick and decisive with your movements, and have a strategy going into each level. Lucky for you, we have some helpful tips and tricks that will help you whether you are experienced or a complete beginner.",
+  "tags": [
+    "2D",
+    "Arcade",
+    "Difficult",
+    "Minimalist",
+    "Puzzle",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "b903985f-a31d-42e6-8058-250072d85e2a",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/b903985f-a31d-42e6-8058-250072d85e2a/1/b903985f-a31d-42e6-8058-250072d85e2a.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 744124,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:54:16.879Z",
+  "verifiedAt": "2026-10-26T11:54:26.750Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Worldâs Hardest Game",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null
+  },
+  "assetCount": 0
+}

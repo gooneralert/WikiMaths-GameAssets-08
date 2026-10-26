@@ -1,0 +1,52 @@
+{
+  "slug": "rain-world",
+  "title": "Rain World",
+  "type": "HTML",
+  "developer": "Cellulose Collective",
+  "description": "You are a slugcat. The world around you is full of danger, and you must face it â alone. Separated from your family in a devastating flood, you will need to find food and shelter between terrifying torrential downpours which threaten to drown all life. Climb through the ruins of an ancient civilization, evade the jaws of vicious predators, and discover new lands teeming with strange creatures and buried mysteries. Find your family before something makes a meal of you!",
+  "tags": [
+    "Adventure",
+    "Survival",
+    "Platformer",
+    "Physics",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "eb26a628-aac9-4016-9071-cfb3fd0ce999",
+  "sourceVersion": "1.11.8",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/eb26a628-aac9-4016-9071-cfb3fd0ce999/1.11.8/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/eb26a628-aac9-4016-9071-cfb3fd0ce999/1.11.8/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/eb26a628-aac9-4016-9071-cfb3fd0ce999/1.11.8/index.html",
+  "status": "done",
+  "sizeBytes": 143000141,
+  "assetCount": 211,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/eb26a628-aac9-4016-9071-cfb3fd0ce999/1.11.8/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/eb26a628-aac9-4016-9071-cfb3fd0ce999/1.11.8/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/eb26a628-aac9-4016-9071-cfb3fd0ce999/1.11.8/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:43:27.939Z",
+  "verifiedAt": "2026-10-26T11:43:38.078Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "Rain World",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 300,
+      "height": 150
+    },
+    "nonBlack": 0
+  }
+}

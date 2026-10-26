@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Legend of Zelda: Majora&#39;s Mask</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; width: 100%; height: 100%; overflow: hidden; background: #000; }
+  #game { width: 100vw; height: 100vh; }
+  #game > * { width: 100% !important; height: 100% !important; }
+  .loading { position: fixed; inset: 0; display: grid; place-items: center; color: #96a0b5; font: 14px/1.5 system-ui, "Segoe UI", sans-serif; }
+  .loading .dot { width: 30px; height: 30px; border: 3px solid #222838; border-top-color: #9db4ff; border-radius: 50%; animation: spin .9s linear infinite; margin: 0 auto 12px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+<script src="/cdn/assets/local-games/the-legend-of-zelda-majoras-mask/__offline__/bootstrap.js"></script>
+
+</head>
+<body>
+<div id="game"><div class="loading"><div><div class="dot"></div>Loading emulator…</div></div></div>
+<script>
+window.EJS_player = "#game";
+window.EJS_core = "n64";
+window.EJS_gameUrl = "/rom.z64";
+window.EJS_gameName = "The Legend of Zelda: Majora's Mask";
+window.EJS_pathtodata = "/emulatorjs/";
+window.EJS_startOnLoaded = true;
+window.EJS_color = "#9db4ff";
+window.EJS_backgroundColor = "#000000";
+window.EJS_disableDatabases = false;
+window.EJS_disableLocalStorage = false;
+window.EJS_threads = false;
+window.EJS_defaultOptions = { "save-state-location": "browser" };
+</script>
+<script src="/emulatorjs/loader.js"></script>
+</body>
+</html>

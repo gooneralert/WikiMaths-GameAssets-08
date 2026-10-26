@@ -1,0 +1,44 @@
+{
+  "slug": "the-binding-of-isaac",
+  "title": "The Binding of Isaac",
+  "type": "Flash",
+  "developer": "Edmund McMillen",
+  "description": "When Isaacâs mother starts hearing the voice of God demanding a sacrifice be made to prove her faith, Isaac escapes into the basement facing droves of deranged enemies, lost brothers and sisters, his fears, and eventually his mother. The Binding of Isaac is a randomly generated action RPG shooter with heavy Rogue-like elements. Following Isaac on his journey players will find bizarre treasures that change Isaacâs form giving him super human abilities and enabling him to fight off droves of mysterious creatures, discover secrets and fight his way to safety.",
+  "tags": [
+    "2D",
+    "Action",
+    "Dark",
+    "Indie",
+    "Roguelike",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "724c0a1b-eb56-4519-960e-f0d9048db209",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/724c0a1b-eb56-4519-960e-f0d9048db209/1/724c0a1b-eb56-4519-960e-f0d9048db209.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 9253069,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:55:16.809Z",
+  "verifiedAt": "2026-10-26T11:55:29.035Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "The Binding of Isaac",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null
+  },
+  "assetCount": 0
+}

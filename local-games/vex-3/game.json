@@ -1,0 +1,969 @@
+{
+  "slug": "vex-3",
+  "title": "Vex 3",
+  "type": "HTML",
+  "developer": "Amazing Adam",
+  "description": "Vex 3 is a challenging 2D platformer where you navigate a stickman through a series of deadly obstacles, traps, and parkour puzzles. Run, jump, slide, and wall-climb your way to survive each intense act.",
+  "tags": [
+    "2D",
+    "2D Platformer",
+    "Action",
+    "Difficult",
+    "Platformer",
+    "Minimalist"
+  ],
+  "controls": [
+    {
+      "action": "Jump/Swim/Cannon",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        },
+        {
+          "key": "KeyW",
+          "keyCode": 87
+        }
+      ]
+    },
+    {
+      "action": "Crouch/Slide/Enter",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        },
+        {
+          "key": "KeyS",
+          "keyCode": 83
+        }
+      ]
+    },
+    {
+      "action": "Move Right",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        },
+        {
+          "key": "KeyD",
+          "keyCode": 68
+        }
+      ]
+    },
+    {
+      "action": "Move Left",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        },
+        {
+          "key": "KeyA",
+          "keyCode": 65
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Jump/Swim/Cannon",
+      "buttons": [
+        0,
+        12
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Crouch/Slide/Enter",
+      "buttons": [
+        1,
+        13
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Move Right",
+      "buttons": [
+        15
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Move Left",
+      "buttons": [
+        14
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "4466a2be-dd7f-4170-82ed-548d9f31fc4f",
+  "sourceVersion": "16",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/index.html",
+  "status": "done",
+  "sizeBytes": 10370593,
+  "assetCount": 941,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/_small.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/close_btn.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/internal.json?v=",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/contracted.json?v=",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/special.json?v=",
+    "https://game.gamemonkey.org/static/main.min.js",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/games.json?v=",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/sitelock.json?v=",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/domains.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/spele_atlas.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/spele_atlas.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/ss_intro.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/jelly_skeleton.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/ss_intro.ogg",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/ss_intro.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/fgs_btn_play.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/spil_logo.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/loader_back.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/splash_playcell.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/playcell_atlas.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/playcell_atlas.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/gamecell_atlas.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/gamecell_atlas.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/splash_gamecell.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/yp_splash.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/yp_atlas.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/admeen_atlas.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/yp_atlas.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/admeen_atlas.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/kizi_button.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/kizi_twist.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/kizi_logo.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/kizi_skeleton.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/bild_btn_play.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/fgs_logo.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/branding_logo_bild.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/fgs_monster_2.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/fgs_monster_1.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/fgs_monster_3.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/fgs_intro.ogg",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/fgs_intro.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/fgs_intro.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/yepi_logo.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/p2.js",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/src/p2.js",
+    "https://playobsidian.com/cdn/assets/html/package.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/package.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.png",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.txt",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.json",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.xml",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.bin",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.js",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect-hang.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/fall.m4a",
+    "https://ext.minijuegosgratis.com/external-host/.js?",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-swing.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/downgrade.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/splash1.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/zipline-full.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/wall-slide.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-enter.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/land.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/slide.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/electricity.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/death2.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-woosh.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/glass-smash.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-fire.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/bounce1.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/falling-block.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/block-destroy.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-1.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/menu-song.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-2.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-3.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/button-click.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-4.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/achievement-unlocked.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/footstep.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/laser-fire.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/ding.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/kick-block.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect-hang.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/star-pickup.m4a",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/fall.wav",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/downgrade.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-swing.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/splash1.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/zipline-full.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-enter.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/wall-slide.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/land.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/slide.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/death2.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/electricity.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-woosh.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/bounce1.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-fire.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/glass-smash.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/falling-block.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/block-destroy.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/menu-song.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-1.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-2.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-3.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-4.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/button-click.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/achievement-unlocked.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/footstep.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/laser-fire.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/ding.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/kick-block.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/star-pickup.mp3",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/-achievement.png",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+    "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+    "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+    "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+    "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+    "http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+    "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+    "https://imasdk.googleapis.com/js/sdkloader/.js",
+    "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+    "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+    "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.fbrq/@orange-games/splash/assets/spine/ASSETS/"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/_small.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/_small.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/close_btn.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/close_btn.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/internal.json?v=",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/internal.json?v=",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/contracted.json?v=",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/contracted.json?v=",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/special.json?v=",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/special.json?v=",
+      "status": 404
+    },
+    {
+      "url": "https://game.gamemonkey.org/static/main.min.js",
+      "error": "HTTP 404 for https://game.gamemonkey.org/static/main.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/games.json?v=",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/games.json?v=",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/sitelock.json?v=",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/sitelock.json?v=",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/domains.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/json/domains.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/spele_atlas.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/spele_atlas.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/spele_atlas.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/spele_atlas.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/ss_intro.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/ss_intro.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/jelly_skeleton.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/jelly_skeleton.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/ss_intro.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/ss_intro.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/ss_intro.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/ss_intro.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/fgs_btn_play.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/fgs_btn_play.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/spil_logo.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/spil_logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/loader_back.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/loader_back.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/splash_playcell.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/splash_playcell.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/playcell_atlas.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/playcell_atlas.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/playcell_atlas.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/playcell_atlas.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/gamecell_atlas.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/gamecell_atlas.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/gamecell_atlas.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/gamecell_atlas.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/splash_gamecell.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/splash_gamecell.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/yp_splash.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/yp_splash.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/yp_atlas.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/yp_atlas.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/admeen_atlas.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/admeen_atlas.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/yp_atlas.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/yp_atlas.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/admeen_atlas.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/atlas/admeen_atlas.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/kizi_button.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/kizi_button.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/kizi_twist.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/kizi_twist.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/kizi_logo.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/kizi_logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/kizi_skeleton.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/kizi_skeleton.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/bild_btn_play.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/bild_btn_play.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/fgs_logo.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/fgs_logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/branding_logo_bild.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/images/branding_logo_bild.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/fgs_monster_2.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/fgs_monster_2.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/fgs_monster_1.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/fgs_monster_1.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/fgs_monster_3.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/spine/fgs_monster_3.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/fgs_intro.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/fgs_intro.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/fgs_intro.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/fgs_intro.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/fgs_intro.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/sound/fgs_intro.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/yepi_logo.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.jsdelivr.net/npm/@orange-games/splash@3.5/build/yepi_logo.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/p2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/src/p2.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/src/p2.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/package.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/package.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/package.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.png",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.txt",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.txt",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.json",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.json",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.xml",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.xml",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.bin",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.bin",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect-hang.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect-hang.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/fall.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/fall.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://video-static.vooxe.com/libs/gd/gd.js",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://ext.minijuegosgratis.com/external-host/.js?",
+      "error": "HTTP 404 for https://ext.minijuegosgratis.com/external-host/.js?",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-swing.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-swing.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/downgrade.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/downgrade.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/splash1.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/splash1.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/zipline-full.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/zipline-full.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/wall-slide.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/wall-slide.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-enter.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-enter.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/land.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/land.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/slide.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/slide.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/electricity.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/electricity.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/death2.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/death2.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-woosh.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-woosh.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/glass-smash.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/glass-smash.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-fire.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-fire.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/bounce1.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/bounce1.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/falling-block.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/falling-block.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/block-destroy.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/block-destroy.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-1.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-1.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/menu-song.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/menu-song.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-2.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-2.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-3.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-3.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/button-click.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/button-click.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-4.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-4.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/achievement-unlocked.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/achievement-unlocked.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/footstep.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/footstep.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/laser-fire.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/laser-fire.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/ding.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/ding.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/kick-block.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/kick-block.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect-hang.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect-hang.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/star-pickup.m4a",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/star-pickup.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/fall.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/fall.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/downgrade.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/downgrade.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-swing.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-swing.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/splash1.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/splash1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://htmi5.api.gamedistribution.com/main.min.js",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/zipline-full.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/zipline-full.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-enter.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-enter.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/wall-slide.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/wall-slide.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/connect.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/land.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/land.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/slide.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/slide.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/death2.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/death2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/electricity.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/electricity.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-woosh.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/pole-woosh.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/bounce1.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/bounce1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-fire.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/cannon-fire.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/glass-smash.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/glass-smash.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/falling-block.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/falling-block.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/block-destroy.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/block-destroy.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/menu-song.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/menu-song.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-1.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-1.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-2.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-2.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-3.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-3.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-4.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/vex-song-4.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/button-click.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/button-click.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/achievement-unlocked.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/achievement-unlocked.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/footstep.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/footstep.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/laser-fire.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/laser-fire.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/ding.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/ding.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/kick-block.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/kick-block.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/star-pickup.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/assets/sounds/star-pickup.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/-achievement.png",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/-achievement.png",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_32x32.jpg",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "error": "HTTP 404 for https://ssl.minijuegosgratis.com/lechuck/js/head_96x96.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/body_160x220.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_256x256.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_96x96.png",
+      "status": 404
+    },
+    {
+      "url": "http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "error": "HTTP 404 for http://lechuck.minijuegosgratis.com/js/head_32x32.jpg",
+      "status": 404
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/ima3.js?source=miniplay",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\vex-3\\__external__\\imasdk.googleapis.com\\js\\sdkloader\\ima3.__qe9f2560b.js.part-2020-1793009215673' -> 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\vex-3\\__external__\\imasdk.googleapis.com\\js\\sdkloader\\ima3.__qe9f2560b.js'",
+      "status": 0
+    },
+    {
+      "url": "http://imasdk.googleapis.com/js/sdkloader/ima3_debug.js?source=miniplay",
+      "error": "EPERM: operation not permitted, rename 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\vex-3\\__external__\\imasdk.googleapis.com\\js\\sdkloader\\ima3_debug.__qe9f2560b.js.part-2020-1793009215765' -> 'C:\\Users\\blake\\Downloads\\Obsidian\\store-offline\\games\\vex-3\\__external__\\imasdk.googleapis.com\\js\\sdkloader\\ima3_debug.__qe9f2560b.js'",
+      "status": 0
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.css",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/custom.elements.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "error": "HTTP 404 for https://imasdk.googleapis.com/js/sdkloader/outstream.min.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.fbrq/@orange-games/splash/assets/spine/ASSETS/",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/4466a2be-dd7f-4170-82ed-548d9f31fc4f/16/cdn.fbrq/@orange-games/splash/assets/spine/ASSETS/",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:07:39.438Z",
+  "verifiedAt": "2026-10-26T10:07:49.326Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Vex 3",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0
+  }
+}

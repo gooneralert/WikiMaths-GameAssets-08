@@ -1,0 +1,71 @@
+{
+  "slug": "portal",
+  "title": "Portal",
+  "type": "HTML",
+  "developer": "Valve",
+  "description": "Portalâ¢ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
+  "tags": [
+    "3D",
+    "First-Person",
+    "Physics",
+    "Puzzle",
+    "Sci-Fi",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/index.html",
+  "status": "done",
+  "sizeBytes": 217121620,
+  "assetCount": 62,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/.wav",
+    "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/.mp3",
+    "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/.ogg",
+    "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/GOT.mem"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/GOT.mem",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/ed27b04a-a6a9-4e92-a7ad-ac5d5540bc5c/1/GOT.mem",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:40:38.384Z",
+  "verifiedAt": "2026-10-26T10:41:39.554Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 8,
+    "title": "Portal - OpenGLES",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 640,
+      "height": 480
+    },
+    "nonBlack": "err:Failed to execute 'getContext' on 'HTMLCanvasElement': Cannot get context from a canvas that has transferred its control to offscreen."
+  }
+}
