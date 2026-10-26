@@ -1,0 +1,44 @@
+{
+  "slug": "achievement-unlocked",
+  "title": "Achievement Unlocked",
+  "type": "Flash",
+  "developer": "John Cooney",
+  "description": "Who needs gameplay when you have ACHIEVEMENTS? Don't worry about beating levels, finding ways to kill enemies, or beating the final boss... there are none. Focus solely on your ultimate destiny... doing random tasks that have nothing to do with anything. Metagame yourself with ease! Self-satisfaction never felt so... artificial!",
+  "tags": [
+    "2D Platformer",
+    "Casual",
+    "Comedy",
+    "Indie",
+    "Minimalist",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "286ebe69-b89f-46c7-bb68-0e8d07fd87a3",
+  "sourceVersion": "1.1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/286ebe69-b89f-46c7-bb68-0e8d07fd87a3/1.1/286ebe69-b89f-46c7-bb68-0e8d07fd87a3.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 2499931,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:50:10.156Z",
+  "verifiedAt": "2026-10-26T11:50:20.599Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Achievement Unlocked",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null
+  },
+  "assetCount": 0
+}

@@ -1,0 +1,146 @@
+{
+  "slug": "duck-life-3-evolution",
+  "title": "Duck Life 3: Evolution",
+  "type": "Flash",
+  "developer": "Wix Games",
+  "description": "Duck Life 3 is a duck racing game featuring genetically modified ducks that evolve as you progress. Choose from one of four duck breeds and evolve as you complete each league.",
+  "tags": [
+    "Casual",
+    "Simulation",
+    "Singleplayer",
+    "Cartoon",
+    "Retro"
+  ],
+  "controls": [
+    {
+      "action": "Move Left/Move Up",
+      "keys": [
+        {
+          "key": "ArrowLeft",
+          "keyCode": 37
+        }
+      ]
+    },
+    {
+      "action": "Move Right/Move Down",
+      "keys": [
+        {
+          "key": "ArrowRight",
+          "keyCode": 39
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "keys": [
+        {
+          "key": "ArrowUp",
+          "keyCode": 38
+        }
+      ]
+    },
+    {
+      "action": "Dive",
+      "keys": [
+        {
+          "key": "ArrowDown",
+          "keyCode": 40
+        }
+      ]
+    },
+    {
+      "action": "Start/Retry",
+      "keys": [
+        {
+          "key": "Space",
+          "keyCode": 32
+        }
+      ]
+    }
+  ],
+  "gamepadControls": [
+    {
+      "action": "Move Left/Move Up",
+      "buttons": [
+        14
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Move Right/Move Down",
+      "buttons": [
+        15
+      ],
+      "axes": [
+        {
+          "index": 0,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Jump",
+      "buttons": [
+        0,
+        12
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": -1
+        }
+      ]
+    },
+    {
+      "action": "Dive",
+      "buttons": [
+        13
+      ],
+      "axes": [
+        {
+          "index": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "action": "Start/Retry",
+      "buttons": [
+        2,
+        9
+      ]
+    }
+  ],
+  "controllerSupport": false,
+  "sourceId": "263c2b5b-297c-4f04-8e0a-70ba1917a7d0",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/flash/263c2b5b-297c-4f04-8e0a-70ba1917a7d0/1/263c2b5b-297c-4f04-8e0a-70ba1917a7d0.swf",
+  "entry": "/index.html",
+  "entryUrl": "/index.html",
+  "status": "done",
+  "sizeBytes": 6037543,
+  "files": [
+    "game.swf",
+    "index.html"
+  ],
+  "notes": "Runs in the shared local Ruffle runtime.",
+  "mirroredAt": "2026-10-26T11:47:14.267Z",
+  "verifiedAt": "2026-10-26T11:47:25.343Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Duck Life 3: Evolution",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null
+  },
+  "assetCount": 0
+}

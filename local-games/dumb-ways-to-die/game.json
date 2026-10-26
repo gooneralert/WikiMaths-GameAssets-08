@@ -1,0 +1,49 @@
+{
+  "slug": "dumb-ways-to-die",
+  "title": "Dumb Ways to Die",
+  "type": "HTML",
+  "developer": "Metro Trains Melbourne",
+  "description": "Dumb Ways to Die is a free mini-game collection based on the award-winning Metro Trains Melbourne rail safety campaign. Guide a cast of accident-prone bean characters through dozens of quick-fire challenges, tapping, swiping and dragging to save them from hilariously dumb deaths. Survive each round to unlock new characters for your train station and remember to stay safe around trains.",
+  "tags": [
+    "Casual",
+    "Arcade",
+    "Funny",
+    "Cartoon",
+    "Family Friendly"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "2dbdbfd9-0ef2-4581-b396-c1d2f4049ebe",
+  "sourceVersion": "1",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/2dbdbfd9-0ef2-4581-b396-c1d2f4049ebe/1/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/2dbdbfd9-0ef2-4581-b396-c1d2f4049ebe/1/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/2dbdbfd9-0ef2-4581-b396-c1d2f4049ebe/1/index.html",
+  "status": "done",
+  "sizeBytes": 22689311,
+  "assetCount": 12,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/2dbdbfd9-0ef2-4581-b396-c1d2f4049ebe/1/.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbdbfd9-0ef2-4581-b396-c1d2f4049ebe/1/.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbdbfd9-0ef2-4581-b396-c1d2f4049ebe/1/.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:26:05.981Z",
+  "verifiedAt": "2026-10-26T11:26:17.786Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": null,
+    "nonBlack": null
+  }
+}

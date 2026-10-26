@@ -1,0 +1,77 @@
+{
+  "slug": "andys-apple-farm",
+  "title": "Andy's Apple Farm",
+  "type": "HTML",
+  "developer": "M36 Games",
+  "description": "Welcome to Andy's Apple Farm! On this farm, you control Andy the Apple! Meet up with other fun characters such as Felix the Fish, Melody the Moon, Margret the Mole, and Claus the Clock! Andy and his friends are having fun on this nice sunny day on the farm! Andy's house is missing its key, and he needs your help to find it and get back into his house! Each character has a game to play and playing these games will reward you with \"BONUS STICKERS\" Help Andy collect everyone's \"Bonus Sticker\" and they might just tell him where his key might be! Will you help Andy win back his keys and get back into His house? In this game, you play a copy of a fictional beta test version of the game \"Andy's Apple Farm\", a game that was supposed to be released in the mid-1980s. The game isn't actually a beta test, however, the game's version is designed to appear as one. The game starts to \"glitch\" and reveal more of the story behind the game. This game has a lot of secrets to discover so it may require several playthroughs to have different experiences and fully understand the game's internal story. WARNING: This game contains loud noises, scary imagery, and flashing lights. JOIN THE DISCORD",
+  "tags": [
+    "Horror",
+    "Pixel Graphics",
+    "Adventure",
+    "Point & Click",
+    "Mystery",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "33232526-3f61-465b-abda-17c864d2fe02",
+  "sourceVersion": "Beta Ver. 4",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/index.html",
+  "status": "done",
+  "sizeBytes": 182528284,
+  "assetCount": 32,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/.wav",
+    "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/.ogg",
+    "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/datafile_runner.data",
+    "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/.mp3",
+    "https://playobsidian.com/images/AvatarPlaceholder.png"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/.wav",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/.wav",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/.ogg",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/datafile_runner.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/datafile_runner.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/.mp3",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/33232526-3f61-465b-abda-17c864d2fe02/Beta%20Ver.%204/.mp3",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/images/AvatarPlaceholder.png",
+      "error": "HTTP 404 for https://playobsidian.com/images/AvatarPlaceholder.png",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:16:54.039Z",
+  "verifiedAt": "2026-10-26T11:17:05.257Z",
+  "verification": {
+    "external": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "AndysAppleFarm",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "nonBlack": 0
+  }
+}
