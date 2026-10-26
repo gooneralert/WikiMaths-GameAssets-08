@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="app.webp" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Terraria</title>
+    <script src="coi-serviceworker.js"></script>
+    <script
+      type="module"
+      crossorigin
+      src="assets/index.js?v=terraria-fix-4"
+    ></script>
+    <link
+      rel="stylesheet"
+      crossorigin
+      href="assets/index.css?v=terraria-fix-4"
+    />
+    <style>
+      div[data-component="TopBar"],
+      div[data-component="BottomBar"],
+      div[data-component="LogView"] {
+        display: none;
+      }
+
+      div[data-component="Main"] {
+        background: black;
+      }
+
+      div[data-component="GameView"] {
+        border-radius: 0;
+        border: none;
+        max-height: 100%;
+        background-color: black;
+      }
+
+      .main {
+        width: 100% !important;
+        padding: 0 !important;
+        justify-content: center;
+      }
+    </style>
+    <script>
+      let startedPlaying = false;
+
+      window.addEventListener("load", function () {
+        setInterval(() => {
+          if (!startedPlaying) {
+            let startButton = document.querySelectorAll(".tcontainer")[2];
+
+            if (startButton) {
+              let noSplash = document.querySelector("#splash") === null;
+              let init =
+                Array.from(
+                  document.querySelectorAll(
+                    'div[data-component="LogView"] div',
+                  ),
+                ).find((el) =>
+                  el.textContent.endsWith(": dotnet initialized"),
+                ) !== undefined;
+              if (init && noSplash) {
+                startedPlaying = true;
+                setTimeout(() => {
+                  console.log("STARTINGGGG");
+                  startButton.click();
+                }, 1000);
+              }
+            }
+          }
+        }, 100);
+      });
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
